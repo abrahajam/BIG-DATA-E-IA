@@ -3,9 +3,9 @@ import numpy as np
 from collections import deque
 
 # Dimensiones
-WIDTH = 30
+WIDTH = 15
 
-HEIGHT = 30
+HEIGHT = 15
 
 # Constantes de Mapa
 BUILDING = 0
